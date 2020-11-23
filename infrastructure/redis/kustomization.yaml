@@ -4,3 +4,4 @@ namespace: redis
 resources:
   - namespace.yaml
   - release.yaml
+  - redis-auth.yml
